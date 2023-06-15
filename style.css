@@ -5,7 +5,7 @@
 }
 
 .welcome{
-  font-size: 30px;
+  font-size: 40px;
   font-family: Arial, Helvetica, sans-serif;
   color: gray;
   margin-left: 25px;
@@ -17,6 +17,7 @@
   justify-content: space-around;
   width: 50%;
   margin: 0 auto;
+  border-bottom: 1px solid plum;
   
 }
 #navbar{
@@ -42,7 +43,14 @@
   font-family: Arial, Helvetica, sans-serif;
   color: green;
 }
- #img{
-  
-  
- }
+#image{
+  margin-top: 50px;
+}
+ 
+.project-tile{
+ font-size: 25px;
+ display: flex;
+ justify-content: center;
+ color: black;
+ margin-top: 20px;
+}
